@@ -1,0 +1,11 @@
+UDACITY
+Nanodegree Analista de Dados
+Projeto: Limpando dados do OpenStreetMap
+Baía de Guanabara, Rio de Janeiro - Brasil
+por Fábio Corrêa Cordeiro
+
+Link Open Street Map: https://osm.org/go/OVdg2Wg-
+
+Nesse projeto será feita a limpeza dos dados do Open Street Map referente ao entorno da Baía de Guanabara, no estado do Rio de Janeiro – Brasil. Esse mapa possui trechos das cidades da região metropolitana do Rio de Janeiro sendo elas: Rio de Janeiro, Duque de Caxias, Magé, São Gonçalo e Niterói. Inclui também diversas ilhas da Baía de Guanabara, sendo as principais a Ilha do Governador, Ilha do Fundão e Paquetá.
+
+A escolha dessa área se deve por ser o local em que eu moro e teria mais facilidade de encontrar erros e falhas no mapa.
